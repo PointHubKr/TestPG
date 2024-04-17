@@ -7,7 +7,8 @@ var CACHED_URLS = [
   "Manifest.json",
   "SmatroPAY.js",
   "uMAIN.html",
-  "uMAIN.pnl_body.wbwtmsg.Picture.gif"
+  "uMAIN.pnl_body.wbwtmsg.Picture.gif",
+  "uStopPG.html"
   ];
 
 self.addEventListener('install', function(event) {
