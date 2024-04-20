@@ -8,6 +8,7 @@ var CACHED_URLS = [
   "SmatroPAY.js",
   "uMAIN.html",
   "uMAIN.pnl_body.wbwtmsg.Picture.gif",
+  "uReturnPG.html",
   "uStopPG.html"
   ];
 
