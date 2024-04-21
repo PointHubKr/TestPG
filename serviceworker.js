@@ -1,11 +1,11 @@
-var CACHE_NAME = "SmatroPAY";
+var CACHE_NAME = "SmartroPAY";
 var CACHED_URLS = [
   "index.html",
   "IconResHigh.png",
   "IconResLow.png",
   "IconResMid.png",
   "Manifest.json",
-  "SmatroPAY.js",
+  "SmartroPAY.js",
   "uMAIN.html",
   "uMAIN.pnl_body.wbwtmsg.Picture.gif",
   "uReturnPG.html",
