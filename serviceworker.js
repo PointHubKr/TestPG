@@ -5,6 +5,7 @@ var CACHED_URLS = [
   "IconResHigh.png",
   "IconResLow.png",
   "IconResMid.png",
+  "img/calt_logo.png",
   "Manifest.json",
   "ParkingTicketSale.js",
   "uADMIN.btn_login.Bitmaps.Bitmap.svg",
