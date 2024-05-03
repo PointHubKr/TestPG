@@ -1,15 +1,23 @@
-var CACHE_NAME = "SmartroPAY";
+var CACHE_NAME = "ParkingTicketSale";
 var CACHED_URLS = [
   "index.html",
+  "global.css",
   "IconResHigh.png",
   "IconResLow.png",
   "IconResMid.png",
   "Manifest.json",
-  "SmartroPAY.js",
-  "uMAIN.html",
-  "uMAIN.pnl_body.wbwtmsg.Picture.gif",
-  "uReturnPG.html",
-  "uStopPG.html"
+  "ParkingTicketSale.js",
+  "uADMIN.btn_login.Bitmaps.Bitmap.svg",
+  "uADMIN.btn_login.Bitmaps.Bitmap_1.svg",
+  "uADMIN.btn_search_magam.Bitmaps.Bitmap.svg",
+  "uADMIN.btn_search_nabpum.Bitmaps.Bitmap.svg",
+  "uADMIN.page_ctr.ButtonAppearance.CloseIcon.svg",
+  "uADMIN.page_ctr.ButtonAppearance.InsertIcon.svg",
+  "uADMIN.page_ctr.ButtonAppearance.ScrollNextIcon.svg",
+  "uADMIN.page_ctr.ButtonAppearance.ScrollPreviousIcon.svg",
+  "uADMIN.page_ctr.ButtonAppearance.TabListIcon.svg",
+  "uADMIN.pnl_magam_top.wbwtmsg.Picture.gif",
+  "uLOGIN.html"
   ];
 
 self.addEventListener('install', function(event) {

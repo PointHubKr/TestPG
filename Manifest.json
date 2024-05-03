@@ -1,6 +1,6 @@
 {
-   "short_name":"SmartroPAY",
-   "name":"SmartroPAY",
+   "short_name":"ParkingTicketSale",
+   "name":"ParkingTicketSale",
    "description":"",
    "start_url":"index.html",
    "display":"fullscreen",
