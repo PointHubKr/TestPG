@@ -27,7 +27,7 @@ var CACHED_URLS = [
   "uCUST.btn_login.Bitmaps.Bitmap.svg",
   "uCUST.btn_pay.Bitmaps.Bitmap.svg",
   "uCUST.btn_search_carno.Bitmaps.Bitmap.svg",
-  "uCUST.btn_search_nabpum.Bitmaps.Bitmap.svg",
+  "uCUST.btn_search_sale_his.Bitmaps.Bitmap.svg",
   "uCUST.html",
   "uCUST.page_screens.ButtonAppearance.CloseIcon.svg",
   "uCUST.page_screens.ButtonAppearance.InsertIcon.svg",
