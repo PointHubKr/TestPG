@@ -17,7 +17,6 @@ var CACHED_URLS = [
   "ParkingTicketSale.js",
   "uADMIN.btn_login.Bitmaps.Bitmap.svg",
   "uADMIN.btn_search_magam.Bitmaps.Bitmap.svg",
-  "uADMIN.btn_search_nabpum.Bitmaps.Bitmap.svg",
   "uADMIN.page_screens.ButtonAppearance.CloseIcon.svg",
   "uADMIN.page_screens.ButtonAppearance.InsertIcon.svg",
   "uADMIN.page_screens.ButtonAppearance.ScrollNextIcon.svg",
