@@ -34,7 +34,7 @@ var CACHED_URLS = [
   "uCUST.page_screens.ButtonAppearance.ScrollPreviousIcon.svg",
   "uCUST.page_screens.ButtonAppearance.TabListIcon.svg",
   "uCUST.wbwtmsg.Picture.gif",
-  "uLogin.html"
+  "uLOGIN.html"
   ];
 
 self.addEventListener('install', function(event) {
